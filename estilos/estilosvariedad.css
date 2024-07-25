@@ -331,6 +331,20 @@ footer p {
     color: rgb(0, 0, 0);
 }
 
+/* INFORMACIÓN DE CONTACTO Y COPYRIGHT */
+
+.informacion-contacto {
+    background-color: #f1f1f1;
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.informacion-contacto p {
+    margin: 10px 0;
+    font-size: 14px;
+}
+
 /* MEDIA QUERY PARA MÓVILES */
 
 @media (max-width: 767px) {
