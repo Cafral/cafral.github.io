@@ -11,7 +11,7 @@ $(function(){
                 // Calcula la posición del destino y realiza un desplazamiento suave
                 var targetOffset = $target.offset().top;
                 $('html,body').animate({scrollTop: targetOffset}, 800);
-                return false; // Previene el comportamiento predeterminado del enlace
+                return false; // Previene el comportamiento predeterminado del del enlace
             }
         }
     });
